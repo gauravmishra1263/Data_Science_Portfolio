@@ -7,7 +7,7 @@ This Repository contains my data science portfolio of projects completed by me f
 
 
  - ### Data Analysis and Visualisation
-       _Tools: Pandas, Folium, Seaborn and Matplotlib_
+       _Tools: Pandas,numpy, Seaborn and Matplotlib_
 
 
      
