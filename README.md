@@ -22,7 +22,7 @@ This Repository contains my data science portfolio of projects completed by me f
 
 ## Projects:
 
-* **Business opportunities with Airbnb data in San Francisco (USA):** [Link]((https://github.com/gauravmishra1263/Data_Science_Portfolio/blob/main/Air%20Bnb%20Data%20Analysis.ipynb))
+* **Business opportunities with Airbnb data in San Francisco (USA):** [Link](https://github.com/gauravmishra1263/Data_Science_Portfolio/blob/main/Air%20Bnb%20Data%20Analysis.ipynb)
 * **Email/ SMS spam classifier app using Streamlit:** [Link](https://github.com/gauravmishra1263/Data_Science_Portfolio/tree/main/Spam_Detection_Model)
 * **Handwritten Digits Recognition(The Hello World of neural networks):** [Link](https://github.com/gauravmishra1263/Data_Science_Portfolio/blob/main/Deep%20Learning/Handwritten%20Digits%20Recognition.ipynb)
 
